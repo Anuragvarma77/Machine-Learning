@@ -48,15 +48,12 @@ The following models were trained and evaluated:
 The best model was selected based on metrics such as accuracy, precision, recall, and F1-score.
 
 ## Results
-- **Best Model**: [Model Name]
-- **Accuracy**: XX%
-- **Precision**: XX%
-- **Recall**: XX%
-- **F1-Score**: XX%
+- **Best Model**: ExtraTreesClassifier
+- **Accuracy**: 96.6 %
+- **Precision**: 89.5 %
+- **Recall**:80.6 %
+- **F1-Score**:0.848
 
 The model demonstrated high accuracy and reliable predictions on the test data.
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Anuragvarma77/brain-stroke-prediction.git
+
